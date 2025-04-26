@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FlexAI Flutter - Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h1 {
+      color: #2c3e50;
+      font-size: 2.5em;
+    }
+    h2, h3 {
+      color: #34495e;
+    }
+    section {
+      margin-bottom: 40px;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    ul {
+      margin-left: 20px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #777;
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>FlexAI Flutter</h1>
+  <p>Your AI-Powered Personal Trainer</p>
+</header>
+
+<section>
+  <h2>Project Overview</h2>
+  <p>FlexAI Flutter is a fitness application that leverages AI to create personalized workout programs. 
+  The app allows users to generate, manage, and track workout routines tailored to their specific fitness goals and preferences.</p>
+</section>
+
+<section>
+  <h2>Key Features</h2>
+  <ul>
+    <li><strong>AI-Powered Workout Generation:</strong> Create personalized workout programs using OpenAI's API</li>
+    <li><strong>Program Management:</strong> Create, view, edit, and delete workout programs</li>
+    <li><strong>Workout Tracking:</strong> Track sets, reps, and weights for each exercise</li>
+    <li><strong>User Preferences:</strong> Customize workouts based on fitness level, goals, available equipment, and schedule</li>
+  </ul>
+</section>
+
+<footer>
+  <p>Need help? Contact our support team at <a href="mailto:hvoll44@gmail.com">support@flexaifitness.com</a></p>
+</footer>
+
+</body>
+</html>
